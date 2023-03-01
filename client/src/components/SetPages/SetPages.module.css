@@ -1,0 +1,22 @@
+.pagination{
+    margin: 20px 0;
+}
+.paginationUl{
+    list-style: none;
+    text-align: center;
+}
+
+.paginationList{
+    display: inline-block;
+    margin-right: 0.5em;
+}
+
+.paginationButton{
+    display: block;
+    padding: 0.5em 1em;
+    color: #fff;
+    background: #024959;
+    text-decoration: none;
+    cursor: pointer;
+
+}

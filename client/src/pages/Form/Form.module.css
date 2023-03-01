@@ -1,0 +1,34 @@
+.Form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin: auto;
+    padding: 1em;
+
+
+}
+
+.FormLabel{
+    width: 6em;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.CreateButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    height: 2em;
+    width: 10em;
+    border: solid 1px;
+    background-color: #db6c11;
+    cursor: pointer;
+}

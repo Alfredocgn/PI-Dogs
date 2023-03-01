@@ -1,0 +1,36 @@
+.CardDetail{
+    border-radius: 15px;
+    height:auto;
+    width: 20em;
+    border: 2px solid #404242;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1em;
+    background-color: #0597aa;
+}
+
+.CardDetailImage{
+    height: 10em;
+    width: 10em;
+}
+
+.DetailInfo{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+    align-items: center;
+
+}
+
+.DetailTemp{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+    align-items: center;
+    padding-left: 1em;
+
+}

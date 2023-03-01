@@ -1,0 +1,72 @@
+.CarouselImg{
+    width: 30em;
+    height: 30em;
+    border-radius: 1em;
+    padding: 0;
+    margin: 0;
+    flex: 1;
+}
+.CarouselButtonContainer{
+    display: flex;
+    align-content: center;
+    flex-direction: row;
+    margin-top: 1em;
+    justify-content: center;
+}
+
+.CarouselButton{
+    color:white;
+    background-color: #db6c11;
+    padding: 0.5em;
+    margin: 0 0.5em;
+    border: 0.1em solid white;
+
+}
+
+.CarouselContainer{
+    display: flex;
+    flex-direction: row;
+    border: solid 0.10em #404242;
+    padding: 0;
+    margin: 0;
+    width: auto;
+    border-radius: 1em;
+    align-content: center;
+    justify-content: center;
+}
+
+.sider{
+    width:30em;
+    height: 30em;
+    border-radius: 1em;
+    background-color: #0597aa;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+    flex: 1;
+
+}
+
+.HomeLink{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    height: 2em;
+    width: 10em;
+    border: solid 1px;
+    background-color: #db6c11;
+}
+
+.HomeTitle{
+    color: white;
+    padding: 0;
+}

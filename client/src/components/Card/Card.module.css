@@ -1,0 +1,27 @@
+.card{
+    border-radius: 15px;
+    height:20em;
+    width: 20em;
+    border: 2px solid #404242;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1em;
+    background-color: #0597aa;
+
+}
+
+.cardImage{
+    width: 7em;
+    height: 7em;
+    border: 1px solid #404242;
+
+}
+
+.containerCard{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+}

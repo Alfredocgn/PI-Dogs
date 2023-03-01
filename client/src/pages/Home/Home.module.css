@@ -1,0 +1,12 @@
+.HomeTitle{
+    align-self: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+
+}
+
+.Home{
+    display: flex;
+    justify-content: center;
+}

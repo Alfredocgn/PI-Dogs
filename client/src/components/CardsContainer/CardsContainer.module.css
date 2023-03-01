@@ -1,0 +1,12 @@
+.container{
+
+    display: flex;
+    flex-direction: row;
+    border-radius: 15px;
+    flex-wrap: wrap;
+    gap: 1em;
+    justify-content: space-around;
+    padding: 1em;
+    background-color: #008c9e;
+}
+
